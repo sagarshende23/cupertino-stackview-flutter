@@ -20,8 +20,7 @@
 
 ## 📱 Video Tutorial #
 
-<img src="https://i.imgur.com/PseCskq.png" width="1100">
-[![](https://i.imgur.com/PseCskq.png)](https://youtu.be/DsUwTmSyfYE)
+[![](https://raw.githubusercontent.com/sagarshende23/cupertino-stackview-flutter/master/cupertino%20stackview%20flutter.png)](https://youtu.be/g9AtFHFj1j0)
 
 
 ## 📱 Screenshots #
